@@ -1,16 +1,13 @@
-# 🚀 Project Name
+# 🚀 MiniLLM-Runtime
 
-> 一句话介绍你的项目。
+> A practice about tiny llm engine
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 
 ## ✨ Features
 
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-- ✅ Easy to use
+- ✅ Easy to read
 - ✅ Open Source
 
 ---
