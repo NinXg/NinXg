@@ -1,4 +1,4 @@
-# 🚀 MiniLLM-Runtime
+## MiniLLM-Runtime
 
 > A practice about tiny llm engine
 
